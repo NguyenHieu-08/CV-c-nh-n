@@ -1,0 +1,16 @@
+a:visited{
+    color: greenyellow;
+}
+a:hover{
+    color:brown;
+}
+
+#gioithieu, #ghiam {
+    float: left;
+}
+
+#idaudio, #idvideo {
+    margin: 17px 17px 17px 17px;
+    padding: auto;
+    cursor: pointer;
+}
